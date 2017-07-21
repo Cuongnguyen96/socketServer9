@@ -1,0 +1,31 @@
+ng-change="Hand_W()"ng-model="Device_status[4]"
+		var json = {
+			"line": $scope.lcd
+		}
+		console.log("LCD_PRINT ", $scope.lcd)
+		mySocket.emit("LCD_PRINT", json)
+	} 
+<input type="text" class="input text" ng-model="lcd[0]" ng-change="updateLCD()" />
+<input type="text" class="input text" ng-model="lcd[1]" ng-change="updateLCD()" />
+Temp_S = Temp_S_W;
+  return Temp_S;
+  Soil_S = Soil_S_W;
+  return Soil_S;
+  Serial.println(Temp_S);
+  Serial.println(Soil_S);
+http://www.free-icons-download.net/images/paper-airplane-icon-62810.png
+http://www.free-icons-download.net/images/3d-modeling-and-design-icon-40081.png
+http://www.free-icons-download.net/images/email-icon-62254.png
+http://www.free-icons-download.net/images/a-black-network-folder-icon-29553.png
+http://www.textum-stoffe.com/img/bg-spinner.gif
+https://www.nationalcprassociation.com/wp-content/uploads/2016/08/loading_blue.gif
+http://i.imgur.com/4u9sFsO.gif
+https://www.google.com.vn/search?tbm=isch&q=line#q=line+gif&tbm=isch&tbs=rimg:CWCVajUX8L8mIjh5I1BQDlhAetWfavZw6kja6rPWHjMRf3PCU9d3eA5koEhYIJyx-kPnEMUF1F16LC7JZALxJQjETioSCXkjUFAOWEB6EY1af-29Jj7SKhIJ1Z9q9nDqSNoRtPF6VfqKMhcqEgnqs9YeMxF_1cxGsVutlLGM1uyoSCcJT13d4DmSgEbNluvnSakYYKhIJSFggnLH6Q-cR_1iPXW9jt1YEqEgkQxQXUXXosLhEVoqtyeFgY5SoSCclkAvElCMROEfPsS3Hz1UOY&imgrc=_
+https://www.pinterest.com/pin/184788390937754684/
+
+
+https://static1.squarespace.com/static/52ff95d2e4b09e6f5ea68134/t/57e68a3ef7e0ab5e257af56a/1474726462205/?format=original
+https://s-media-cache-ak0.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif
+https://cdn.dribbble.com/users/1108089/screenshots/2955959/dribbble.gif
+
+http://www.free-icons-download.net/images/player-stop-icon-3266.png" alt = "http://www.free-icons-download.net/images/player-stop-icon-3266.png
